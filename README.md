@@ -10,4 +10,10 @@ To apply the scheme switch to Configurations tab and search for r3code in the LE
 
 ## Layer 1
 
-![Layer 1](https://github.com/r3code/gk61-keyboard-config/blob/main/r3code_gk61_keyboard_layer_1_remap.png)
+![Layer 1](r3code_gk61_keyboard_layer_1_remap.png)
+
+Temporal switch to Layer 2 by CapsLock.
+
+# Layer 2
+
+![Layer 2](r3code_gk61_keyboard_layer_2_remap.png)

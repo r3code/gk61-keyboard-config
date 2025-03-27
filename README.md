@@ -1,5 +1,5 @@
 # gk61-keyboard-config
-My GK61 keyboard config
+My GK61 keyboard config (detected as SK61 RGB v1.20)
 
 To upload a color scheme config use  http://www.jikedingzhi.com/downloadlist?driverID=41latest. It runs on Windows, Mac, and Linux.  
 Or use an alternative software from https://github.com/pixeltris/GK6X
